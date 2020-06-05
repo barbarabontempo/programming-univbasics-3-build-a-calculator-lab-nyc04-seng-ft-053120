@@ -33,3 +33,5 @@ def square_root(num)
   puts square
   square
 end
+
+square_root(2)
