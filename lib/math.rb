@@ -34,4 +34,4 @@ def square_root(num)
   square
 end
 
-square_root(2)
+puts square_root(2)
